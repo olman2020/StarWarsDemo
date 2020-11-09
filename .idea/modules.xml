@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MavenStarWars/MavenStarWars.iml" filepath="$PROJECT_DIR$/MavenStarWars/MavenStarWars.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StarWarsDemo.iml" filepath="$PROJECT_DIR$/StarWarsDemo.iml" />
     </modules>
   </component>
 </project>
